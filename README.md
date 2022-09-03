@@ -28,7 +28,7 @@
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer from Indonesia.
-- :artist: My hobbies is drawing (although im bad at it) and Hiking, also Fishing :fish: .
+- :artist: My hobbies is drawing (although im bad at it), Hiking, and Fishing :fish: .
 - :books: I like to explore something new, especially JavaScript Frameworks
 - :cat: I love cat than my life.
 - :star: My favorite programming language is JavaScript :heart:
